@@ -1,5 +1,6 @@
 Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 ==================================================
+tiggered deploy
 
 ![nightscout horizontal](https://cloud.githubusercontent.com/assets/751143/8425633/93c94dc0-1ebc-11e5-99e7-71a8f464caac.png)
 
